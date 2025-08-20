@@ -1,7 +1,7 @@
 ## lzmcore.py - useful module of Lazymux
 # -*- coding: utf-8 -*-
-import os
-import sys
+import cd
+import is
 import time
 
 lazymux_banner = """
